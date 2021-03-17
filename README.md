@@ -1,6 +1,6 @@
 # touchy
 
-I wanted a way to visualize and experiment with musical intervals.
+I wanted a way to visualize musical intervals, in a layout that's not a keyboard (because they're effectively biased to specific modes/keys).
 
 This 
 - allows different layouts (I've played with chromatic, guitar layout, isometric with thirds and fifths)
@@ -11,11 +11,14 @@ This
 
 An experiment written for [Kivy](https://kivy.org/), because it's very convenient for this sort of thing.
 
+Requirements:
+- [Kivy](https://kivy.org/doc/stable/gettingstarted/installation.html)
 
 TODO:
-- change button behaviour, it reacts twice and is slow
-- put code in repository
-- add on-screen swapping to other layouts, midi channel, and other such config
+- change button behaviour, right now reacts twice
+- figure out whether that's the reason it is slow to respond to lots of touches at once
+- put code here in repository
+- add on-screen swapping to other layouts, switching midi channel, and other such config
 - add file config (e.g. for what MIDI device name to prefer)
 
 ![Animated screenshot of playing a major triad](/screenshot.gif?raw=true)
