@@ -26,6 +26,7 @@ It
 
 
 # TODO
+- think more about the consonance/dissonance coloring
 - make it react to sliding touch
 - change button behaviour, right now reacts twice
 - figure out whether it's changing text that makes it slow to respond to lots of touches at once
@@ -33,4 +34,6 @@ It
 - put code here in repository
 - add on-screen swapping to other layouts, switching midi channel, what to show
 - add file config (e.g. for what MIDI device name to prefer)
+- think about other musical concents I want to explore with this
+  - make it smart about chords?
 
