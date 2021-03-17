@@ -11,7 +11,7 @@ It
   - guitar layout
   - isometric with thirds and fifths
 - optionally mentions
-  - note name
+  - note name (off in screenshot below)
   - Intervals to all touched notes
 - colors by consonance (blue) or dissonance (red)
 - reacts to multitouch
