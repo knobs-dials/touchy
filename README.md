@@ -14,8 +14,8 @@ An experiment written for [Kivy](https://kivy.org/), because it's very convenien
 
 TODO:
 - change button behaviour, it reacts twice and is slow
-- put code here
-- add config
-- add on-screen relayouting
+- put code in repository
+- add on-screen swapping to other layouts, midi channel, and other such config
+- add file config (e.g. for what MIDI device name to prefer)
 
 ![Animated screenshot of playing a major triad](/screenshot.gif?raw=true)
