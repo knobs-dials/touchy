@@ -2,7 +2,7 @@
 
 I wanted a way to visualize musical intervals, in a layout that's not a keyboard (because they're effectively biased to specific modes/keys).
 
-This is an experiment written for [Kivy](https://kivy.org/), because it's very convenient for this sort of thing.
+This is an experiment written for [Kivy](https://kivy.org/), because it's very convenient for this sort of thing - the first version was ~100 lines.
 
 
 It
