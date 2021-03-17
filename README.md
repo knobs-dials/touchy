@@ -11,10 +11,10 @@ This
 
 An experiment written for [Kivy](https://kivy.org/), because it's very convenient for this sort of thing.
 
-Requirements:
+# Requirements
 - [Kivy](https://kivy.org/doc/stable/gettingstarted/installation.html)
 
-TODO:
+# TODO
 - change button behaviour, right now reacts twice
 - figure out whether that's the reason it is slow to respond to lots of touches at once
 - put code here in repository
