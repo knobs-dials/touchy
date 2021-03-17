@@ -28,6 +28,7 @@ It
 # TODO
 - change button behaviour, right now reacts twice
 - figure out whether that's the reason it is slow to respond to lots of touches at once
+- figure out other realtimeish issues
 - put code here in repository
 - add on-screen swapping to other layouts, switching midi channel, what to show
 - add file config (e.g. for what MIDI device name to prefer)
