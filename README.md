@@ -12,6 +12,8 @@ It
 - reacts to MIDI input
 - plays to MIDI
 
+![Animated screenshot of playing a major triad](/screenshot.gif?raw=true)
+
 
 # Requirements
 - [Kivy](https://kivy.org/doc/stable/gettingstarted/installation.html)
@@ -24,4 +26,3 @@ It
 - add on-screen swapping to other layouts, switching midi channel, and other such config
 - add file config (e.g. for what MIDI device name to prefer)
 
-![Animated screenshot of playing a major triad](/screenshot.gif?raw=true)
