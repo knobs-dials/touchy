@@ -9,7 +9,7 @@ This
 - reacts to MIDI input
 - plays to MIDI
 
-Written in Kivy, because it's very convenient for this sort of thing.
+An experiment written for [Kivy](https://kivy.org/), because it's very convenient for this sort of thing.
 
 
 TODO:
