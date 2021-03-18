@@ -1,8 +1,6 @@
-![Animated screenshot of playing a major triad](/screenshot.gif?raw=true)
-
 # touchy
 
-I wanted a way to visualize musical intervals, in a layout that's not a keyboard (because they're effectively biased to specific modes/keys).
+I wanted a way to visualize musical intervals, in a layout that's not a piano style keyboard (because they're effectively biased to specific modes/keys).
 
 This is code for [Kivy](https://kivy.org/), because it's very convenient for this sort of experiment - the first version was ~100 lines.
 
@@ -19,6 +17,8 @@ It
 - reacts to multitouch
 - reacts to MIDI input
 - plays to MIDI
+
+![Animated screenshot of playing a major triad](/screenshot.gif?raw=true)
 
 
 # Requirements
