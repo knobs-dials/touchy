@@ -23,6 +23,7 @@ It
 
 # Requirements
 - [Kivy](https://kivy.org/doc/stable/gettingstarted/installation.html)
+- [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) (optional) is one way to route MIDI to a DAW
 
 
 # TODO
