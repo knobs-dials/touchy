@@ -27,12 +27,13 @@ It
 
 
 # TODO
+- actually add the code
+
 - think more about the consonance/dissonance coloring
 - make it react to sliding touch
 - change button behaviour, right now reacts twice
 - figure out whether/why changing button text makes it so slow to respond to lots of touches at once
 - figure out other realtimeish issues
-- put code here in repository
 - add on-screen swapping to other layouts, switching midi channel, what to show
 - add file config (e.g. for what MIDI device name to prefer)
 - think about other musical concents I want to explore with this
