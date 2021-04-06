@@ -26,15 +26,26 @@ This is code for [Kivy](https://kivy.org/), because it's very convenient for thi
 
 
 # TODO
-- actually add the code
+- change button behaviour
+   - right now reacts twice
+   - figure out whether/why changing button text makes it so slow to respond to lots of touches at once (is it relayouting?)
+- actually add the code here
 
-- think more about the consonance/dissonance coloring
-- make it react to sliding touch
-- change button behaviour, right now reacts twice
-- figure out whether/why changing button text makes it so slow to respond to lots of touches at once
 - figure out other realtimeish issues
-- add on-screen swapping to other layouts, switching midi channel, what to show
+- think more about the consonance/dissonance coloring
+
+- packaging so I can offer download rather than 'please install these things'
+ 
+
+# CONSIDER
+- make it react to sliding touch
+   - as in, all buttons you pass, not just the one you land on
+   - consider strumming, pitch bends
+
+- add on-screen config, e.g. swapping to other layouts, what to show on buttons, switching midi channel
+
 - add file config (e.g. for what MIDI device name to prefer)
+
 - think about other musical concents I want to explore with this
-  - make it smart about chords?
+   - make it smart about chords?
 
