@@ -1,17 +1,14 @@
 # touchy
 
-I wanted a way to visualize musical intervals, in a layout that's not a piano style keyboard (because they're effectively biased to specific modes/keys).
+I wanted a way to visualize musical intervals, in a layout that's not a piano style keyboard.
 
-This is code for [Kivy](https://kivy.org/), because it's very convenient for this sort of experiment - the first version was ~100 lines.
-
-
-It
+This
 - allows varied layout. So far I've played with 
   - a few octaves of chromatic (see screenshot)
-  - guitar layout
+  - guitar and uke layout
   - isometric with thirds and fifths
 - optionally mentions
-  - note name (off in screenshot below)
+  - note name (disabled in screenshot below)
   - Intervals to all touched notes
 - colors by consonance (blue) or dissonance (red)
 - reacts to multitouch
@@ -19,6 +16,8 @@ It
 - plays to MIDI
 
 ![Animated screenshot of playing a major triad](/screenshot.gif?raw=true)
+
+This is code for [Kivy](https://kivy.org/), because it's very convenient for this sort of experiment - the first version was ~100 lines.
 
 
 # Requirements
