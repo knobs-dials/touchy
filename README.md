@@ -39,7 +39,7 @@ This is code leveraging the [Kivy](https://kivy.org/) framework, because it's ve
 
 # CONSIDER
 - make it react to sliding touch
-   - as in, all buttons you pass, not just the one you land on
+   - as in, hit all buttons you pass, not just the one you land the touch on
    - consider strumming, pitch bends
 
 - add on-screen config, e.g. swapping to other layouts, what to show on buttons, switching midi channel
