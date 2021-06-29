@@ -17,7 +17,7 @@ This
 
 ![Animated screenshot of playing a major triad](/screenshot.gif?raw=true)
 
-This is code leveraging the [Kivy](https://kivy.org/) framework, because it's very convenientto quickly make this sort of experiment - the first funcitonal version was under 100 lines.
+This is code leveraging the [Kivy](https://kivy.org/) framework, because it's a very convenient way to quickly make this sort of experiment - the first functional version was under 100 lines.
 
 
 # Requirements
