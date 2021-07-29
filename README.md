@@ -1,6 +1,6 @@
 # touchy
 
-I wanted a way to visualize musical intervals, in a layout that's not a piano style keyboard.
+I wanted a way to visualize musical intervals within chords, in a layout that's not (necessarily) a piano style keyboard.
 
 This
 - allows varied layout. So far I've played with 
